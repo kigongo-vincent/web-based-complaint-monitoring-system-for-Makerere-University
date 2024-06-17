@@ -1,0 +1,56 @@
+missing marks
+(
+    student name (hidden)
+    timestamp (hidden)
+    student number (HIDDEN)
+    course (HIDDEN)
+    semester (dropdown)
+    course unit (dropdown) - course code (dropdown)
+    lecturer's name (drop down)
+    academic year (Hidden)
+    issue (coursework, exam, both, other - explain)
+)
+
+ADMIN role(
+    add courses and courseunits with codes,
+    add academic years
+)
+
+
+lecturer (
+    name
+    course teaching (academic year, course)
+)
+
+
+================lecturers ============================
+login
+
+dashboard
+    list of courses
+    Add a course
+    view course complaints
+
+creating a course
+    add a course (program, unit, code, semester)
+    add a co-lecturer (optional)
+
+view complaints on a course
+    student making the complaint (number, name, reg No)
+    nature of complaint
+    academic year
+    year of study
+    program
+    course (program, unit, code, semester)
+    
+
+address complaint:
+    edit status (resolved || go_to_office)
+
+
+view all complainst
+
+get notified of new complaints and those resolved
+
+
+
